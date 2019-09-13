@@ -19,4 +19,4 @@ Module | Git | Python 3.6 | LibriSpeech Corpus | CNTK 2.3 | SRILM | OpenFST
 
 #### Installing the Course Git Repository
 
-Clone the repo https://github.com/MicrosoftLearning/Speech-Recognition
+Clone the repo https://github.com/rajatsgupta/Speech-Recognition
