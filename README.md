@@ -31,14 +31,14 @@ These instructions assume that Anaconda3 is installed, and you know the installa
   * This is the development set of a larger publicly available speech corpus but we will be using it as our training, development, and testing sets
   * Extract the files in the archive to the top level directory (same directory that contains the folders for the lab exercises (M1_Introduction, M2_Speech_Signal_Processing, etc.)
   * When you are done, you should have a top-level directory that contains the following folders:
-    * Experiments/
-    * LibriSpeech/
-    * M1_Introduction/
-    * M2_Speech_Signal_Processing/
-    * M3_Acoustic_Modeling/
-    * M4_Language_Modeling/
-    * M5_Decoding/
-    * M6_End_to_End_Models/
+    * **Experiments/**
+    * **LibriSpeech/**
+    * **M1_Introduction/**
+    * **M2_Speech_Signal_Processing/**
+    * **M3_Acoustic_Modeling/**
+    * **M4_Language_Modeling/**
+    * **M5_Decoding/**
+    * **M6_End_to_End_Models/**
 
 * Install Python 3.6
   * The labs in this course were developed using Python version 3.6. Other Python versions may work, but could require code changes to the code provided for the labs.
